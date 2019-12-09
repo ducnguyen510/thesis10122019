@@ -1,0 +1,88 @@
+\documentclass[13pt,a4paper,vietnamese]{report}
+\usepackage{babel}%sử dụng tiếng việt
+\usepackage[margin=1in]{geometry}
+\usepackage{amsfonts,amsmath,amssymb}
+\usepackage[none]{hyphenat}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage[nottoc,notlot,notlof]{tocbibind}
+\usepackage{titlesec}
+\usepackage{makeidx}
+
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot{}
+\fancyhead[L]{\slshape\MakeUppercase{Floating point}}
+\fancyhead[R]{\slshape{Student's Name}}
+\fancyfoot[C]{\thepage}
+%\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+%\parindent 0ex
+%\setlength{\parindent}{4ex}
+%\setlength{\parskip}{1ex}
+\renewcommand{\baselinestretch}{1.5}
+\makeindex
+\begin{document}
+\begin{titlepage}
+\begin{center}
+\vspace*{1cm}
+\Large\textbf{Floating point}\\
+\large\textbf{Viettel IC Design}\\
+\vfill
+\line(1,0){400}\\[1mm]
+\huge{\textbf{Floating point}}\\[3mm]
+\Large{\textbf{-Foating point based on FPGA-}}\\[1mm]
+\line(1,0){400}\\
+\vfill
+By Van Duc NGUYEN\\
+Candidate 20151050 \\
+\today
+\end{center}
+\end{titlepage}
+	
+\tableofcontents
+
+\thispagestyle{empty}
+\clearpage
+
+\setcounter{page}{1}
+\chapter{Introduction}
+Trong biểu diễn số học trong máy tính có 2 kiểu biểu diễn phổ biến,đó là kiểu fixed-point và kiểu floating-point.Với kiểu biểu diễn fixed-point(ví dụ:mã bù 2),hoàn toàn có thể biểu diễn các số nguyên dương và ân hoặc các số gần 0.Bằng cách cố định radix 2 hoặc radix cao hơn.Với kiểu định dạng này,có thể biểu diễn số với phần thập phân 1 cách dễ dàng.
+
+Tuy nhiên,cách tiếp cận này có vài hạn chế.Không thể biểu diễn các số rất lớn hoặc các số rất nhỏ.Hơn nữa,phần thập phân của thương của 1 phép chia 2 số có thể bị mất mát.
+Ví dụ với hệ thập phân,với số 976,000,000,000,000 có thể biểu diễn thành $9.76*10^{14}$,bằng cách biểu diễn như vậy,
+\chapter{FLoating-point representation}
+
+\chapter{IEEE 754/2008 standard}
+
+\chapter{Floating-point arthmetic}
+
+\section{Addision and Subtraction}
+\section{Multiplication and Divison}
+\section{Reciprocal and Square Root}
+
+\chapter{Implement in FPGA}
+
+\chapter{Evaluation}
+
+\chapter{Conclussion and Related-work}
+This is end of document
+
+\cite{name1}\\
+
+\pagebreak
+\begin{thebibliography}{}
+\bibitem{name1}
+Duc Nguyen,"sach cua tao",\textit{bai bao hoi nghi} Sun,25,May,2019.
+\bibitem{name2}
+Authors
+\textit{"title of article"}
+Title of Journal
+Date,Month,Year
+page
+Medium of publish
+\end{thebibliography}
+\end{document}

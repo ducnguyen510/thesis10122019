@@ -1,0 +1,12 @@
+\babel@toc {vietnamese}{}
+\contentsline {chapter}{\numberline {1}Introduction}{1}% 
+\contentsline {chapter}{\numberline {2}FLoating-point representation}{2}% 
+\contentsline {chapter}{\numberline {3}IEEE 754/2008 standard}{3}% 
+\contentsline {chapter}{\numberline {4}Floating-point arthmetic}{4}% 
+\contentsline {section}{\numberline {4.1}Addision and Subtraction}{4}% 
+\contentsline {section}{\numberline {4.2}Multiplication and Divison}{4}% 
+\contentsline {section}{\numberline {4.3}Reciprocal and Square Root}{4}% 
+\contentsline {chapter}{\numberline {5}Implement in FPGA}{5}% 
+\contentsline {chapter}{\numberline {6}Evaluation}{6}% 
+\contentsline {chapter}{\numberline {7}Conclussion and Related-work}{7}% 
+\contentsline {chapter}{T\`ai li\d \ecircumflex u tham kh\h {a}o}{8}% 
