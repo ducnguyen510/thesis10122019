@@ -1,12 +1,25 @@
 \babel@toc {vietnamese}{}
 \contentsline {chapter}{\numberline {1}Introduction}{1}% 
-\contentsline {chapter}{\numberline {2}FLoating-point representation}{2}% 
-\contentsline {chapter}{\numberline {3}IEEE 754/2008 standard}{3}% 
-\contentsline {chapter}{\numberline {4}Floating-point arthmetic}{4}% 
-\contentsline {section}{\numberline {4.1}Addision and Subtraction}{4}% 
-\contentsline {section}{\numberline {4.2}Multiplication and Divison}{4}% 
-\contentsline {section}{\numberline {4.3}Reciprocal and Square Root}{4}% 
-\contentsline {chapter}{\numberline {5}Implement in FPGA}{5}% 
-\contentsline {chapter}{\numberline {6}Evaluation}{6}% 
-\contentsline {chapter}{\numberline {7}Conclussion and Related-work}{7}% 
-\contentsline {chapter}{T\`ai li\d \ecircumflex u tham kh\h {a}o}{8}% 
+\contentsline {chapter}{\numberline {2}Floating-point representation}{2}% 
+\contentsline {section}{\numberline {2.1}Bi\IeC {\h \ecircumflex }u di\IeC {\~\ecircumflex }n s\IeC {\'\ocircumflex } floating-point}{2}% 
+\contentsline {subsection}{\numberline {2.1.1}Normalized,unnormalized and denormalized representation}{3}% 
+\contentsline {subsubsection}{D\IeC {\d a}ng chu\IeC {\h \acircumflex }n h\IeC {\'o}a(Normalized)}{3}% 
+\contentsline {subsubsection}{D\IeC {\d a}ng ch\IeC {\uhorn }a chu\IeC {\h \acircumflex }n h\IeC {\'o}a(Denormalized)}{4}% 
+\contentsline {subsection}{\numberline {2.1.2}Bi\IeC {\h \ecircumflex }u di\IeC {\~\ecircumflex }n ph\IeC {\`\acircumflex }n \IeC {\dj }\IeC {\d i}nh tr\IeC {\d i}(Significand)}{4}% 
+\contentsline {subsection}{\numberline {2.1.3}Bi\IeC {\h \ecircumflex }u di\IeC {\~\ecircumflex }n ph\IeC {\`\acircumflex }n m\IeC {\~u}(Exponent)}{4}% 
+\contentsline {subsection}{\numberline {2.1.4}C\IeC {\'a}c gi\IeC {\'a} tr\IeC {\d i} \IeC {\dj }\IeC {\d \abreve }c bi\IeC {\d \ecircumflex }t}{5}% 
+\contentsline {section}{\numberline {2.2}C\IeC {\'a}c ch\IeC {\'\ecircumflex } \IeC {\dj }\IeC {\d \ocircumflex } l\IeC {\`a}m tr\IeC {\`o}n v\IeC {\`a} ph\IeC {\^a}n t\IeC {\'\i }ch l\IeC {\~\ocircumflex }i}{5}% 
+\contentsline {chapter}{\numberline {3}IEEE 754/2008 standard for binary floating-point}{6}% 
+\contentsline {section}{\numberline {3.1}Ti\IeC {\^e}u chu\IeC {\h \acircumflex }n IEEE 754/2008 cho floating-point binary.}{6}% 
+\contentsline {section}{\numberline {3.2}C\IeC {\'a}c ch\IeC {\'\ecircumflex } \IeC {\dj }\IeC {\d \ocircumflex } l\IeC {\`a}m tr\IeC {\`o}n trong ti\IeC {\^e}u chu\IeC {\h \acircumflex }n IEEE 754/2008 cho floating-point bianry}{9}% 
+\contentsline {chapter}{\numberline {4}Floating-point arithmetic}{11}% 
+\contentsline {section}{\numberline {4.1}Addition and Subtraction}{11}% 
+\contentsline {section}{\numberline {4.2}Multiplication and Divison}{11}% 
+\contentsline {section}{\numberline {4.3}Reciprocal and Square Root}{11}% 
+\contentsline {chapter}{\numberline {5}Implement in FPGA}{12}% 
+\contentsline {section}{\numberline {5.1}Addition and Subtraction}{12}% 
+\contentsline {section}{\numberline {5.2}Multiplication and Division}{12}% 
+\contentsline {section}{\numberline {5.3}Reciprocal and Square Root}{12}% 
+\contentsline {chapter}{\numberline {6}Evaluation}{13}% 
+\contentsline {chapter}{\numberline {7}Conclussion and Related-work}{14}% 
+\contentsline {chapter}{T\`ai li\d \ecircumflex u tham kh\h {a}o}{15}% 

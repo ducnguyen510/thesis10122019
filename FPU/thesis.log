@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.28)  8 DEC 2019 23:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.3)  10 DEC 2019 17:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,8 +7,8 @@ entering extended mode
 LaTeX2e <2018-12-01>
 (c:/texlive/2019/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
-(c:/texlive/2019/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+(c:/texlive/2019/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -410,10 +410,6 @@ Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 
 
 Writing index file thesis.idx
-
-LaTeX Warning: Unused global option(s):
-    [13pt].
-
 (./thesis.aux
 LaTeX Font Info:    Try loading font information for T5+cmr on input line 3.
  (c:/texlive/2019/texmf-dist/tex/latex/vntex/t5cmr.fd
@@ -421,20 +417,20 @@ File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 ))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -455,12 +451,12 @@ LaTeX Font Info:    ... okay on input line 28.
 * \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=57.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -535,12 +531,12 @@ Package caption Info: End \AtBeginDocument code.
  [1
 
 {c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./thesis.toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 6.
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
 
 (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 6.
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
 
 (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -550,6 +546,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
  [1
 
+] (./thesis.lof)
+\tf@lof=\write5
+\openout5 = `thesis.lof'.
+
+
+[2
+
+] (./thesis.lot)
+\tf@lot=\write6
+\openout6 = `thesis.lot'.
+
+ [3
+
 ]
 Ch\uhorn \ohorn ng 1.
 [1
@@ -557,56 +566,112 @@ Ch\uhorn \ohorn ng 1.
 
 ]
 Ch\uhorn \ohorn ng 2.
-[2
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 74.
+(c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
+<image/fig1.png, id=26, 485.56406pt x 74.52844pt>
+File: image/fig1.png Graphic file (type png)
+<use image/fig1.png>
+Package pdftex.def Info: image/fig1.png  used on input line 81.
+(pdftex.def)             Requested size: 339.89252pt x 52.16954pt.
+ [2
 
-]
+ <./image/fig1.png>]
+<image/fig2.png, id=34, 633.11531pt x 282.30469pt>
+File: image/fig2.png Graphic file (type png)
+<use image/fig2.png>
+Package pdftex.def Info: image/fig2.png  used on input line 109.
+(pdftex.def)             Requested size: 316.55687pt x 141.152pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 13.59999pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[3 <./image/fig2.png>] [4] [5]
 Ch\uhorn \ohorn ng 3.
-[3
+[6
 
 ]
+<image/fig3.png, id=51, 496.85625pt x 343.2825pt>
+File: image/fig3.png Graphic file (type png)
+<use image/fig3.png>
+Package pdftex.def Info: image/fig3.png  used on input line 184.
+(pdftex.def)             Requested size: 347.797pt x 240.2961pt.
+
+Overfull \hbox (10.77057pt too wide) in paragraph at lines 190--191
+\T5/cmr/m/n/10.95 H¼nh 3.1 thº hi»n ^^_ành d¤ng IEEE 754 cho ^^_ë d i bit l¦n l
+÷ñt l  16 bit(single pre-ci-sion),32bit(double
+ []
+
+<image/fig4.png, id=52, 564.60938pt x 315.42844pt>
+File: image/fig4.png Graphic file (type png)
+<use image/fig4.png>
+Package pdftex.def Info: image/fig4.png  used on input line 194.
+(pdftex.def)             Requested size: 395.22386pt x 220.79839pt.
+[7 <./image/fig3.png> <./image/fig4.png>]
+<image/fig5.png, id=58, 431.36156pt x 554.82281pt>
+File: image/fig5.png Graphic file (type png)
+<use image/fig5.png>
+Package pdftex.def Info: image/fig5.png  used on input line 205.
+(pdftex.def)             Requested size: 345.0897pt x 443.85886pt.
+ [8 <./image/fig5.png>] [9] [10]
 Ch\uhorn \ohorn ng 4.
-[4
+
+Overfull \hbox (21.02647pt too wide) in paragraph at lines 250--251
+[]\T5/cmr/m/n/10.95 T¡ch ^^_¦u v o th nh 3 ph¦n:ph¦n d§u(sign),ph¦n mô(expoent)
+ v  ph¦n ^^_ành trà(mantissa).Kiºm
+ []
+
+[11
 
 ]
 Ch\uhorn \ohorn ng 5.
-[5
+[12
 
 ]
 Ch\uhorn \ohorn ng 6.
-[6
+[13
 
 ]
 Ch\uhorn \ohorn ng 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
 
  []
 
-[7
+[14
 
-] [8
+] [15
 
 ] (./thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 5528 strings out of 494007
- 78064 string characters out of 6166145
- 156539 words of memory out of 5000000
- 9254 multiletter control sequences out of 15000+600000
- 15932 words of font info for 33 fonts, out of 8000000 for 9000
+ 5619 strings out of 494007
+ 79334 string characters out of 6166146
+ 159620 words of memory out of 5000000
+ 9319 multiletter control sequences out of 15000+600000
+ 23818 words of font info for 48 fonts, out of 8000000 for 9000
  286 hyphenation exceptions out of 8191
- 42i,4n,43p,491b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,10n,43p,1089b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-mi10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/
-2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texm
-f-dist/fonts/type1/vntex/vnr/vnbx10.pfb><c:/texlive/2019/texmf-dist/fonts/type1
-/vntex/vnr/vnbx12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/vntex/vnr/vnr10.p
-fb><c:/texlive/2019/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb><c:/texlive/2019
-/texmf-dist/fonts/type1/vntex/vnr/vnti10.pfb>
-Output written on thesis.pdf (10 pages, 97534 bytes).
+mi10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><
+c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive
+/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2019/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/vntex/vnr/v
+nbx10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb><c:/texl
+ive/2019/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2019/texmf-dist
+/fonts/type1/vntex/vnr/vnr12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/vntex/
+vnr/vnsl10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/vntex/vnr/vnti10.pfb>
+Output written on thesis.pdf (19 pages, 387510 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 129 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
